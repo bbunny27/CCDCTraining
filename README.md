@@ -1,2 +1,3 @@
 # CCDCTraining
-UW-W Training Materials for the CCDC Competition
+### Free/Paid Platforms
+<a href="https://blueteamlabs.online/">Blue Team Labs</a>
